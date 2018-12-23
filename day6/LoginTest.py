@@ -31,6 +31,7 @@ class LoginTest(BaseTestCase):
         expected = mhp.get_welcome_text()
         self.assertEqual(expected, "您好 changcheng")
 #         还可以加数据驱动测试，自己回去试试
+        print("github 修改成功")
 
 
 
