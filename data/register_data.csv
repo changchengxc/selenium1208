@@ -1,0 +1,4 @@
+username,password,confirm_password,mobile,email,verify_username,verify_password,verify_confirm_password,verify_mobile,verify_email
+changcheng,123456,123456,13912342358,sadsa@168.com,用户名重复,通过信息验证,通过信息验证,通过信息验证,通过信息验证
+changcheng2018,123457,9234578,13912342359,sadsa@169.com,通过信息验证,通过信息验证,您两次输入的账号密码不一致！,通过信息验证,通过信息验证
+changcheng,123458,123458,2912342360,sadsa@170.com,通过信息验证,通过信息验证,通过信息验证,手机号错误！,通过信息验证
